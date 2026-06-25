@@ -4,7 +4,7 @@ date: 2026-06-26
 categories: [University-Life]
 tags: [Campus-Life, First-Impression, Student-Life]
 ---
-My First Impression of UET Lahore Faisalabad Campus
+**My First Impression of UET Lahore Faisalabad Campus**
 
 When I first entered UET Lahore Faisalabad Campus on 15 September 2025, I was carrying a mixture of excitement, nervousness, and curiosity. Like many students who are about to begin university life, I had spent months imagining what the campus would look like and how my life would change once classes started. I had heard stories from seniors and watched videos of university campuses, so naturally I had created a picture in my mind of what my new environment would be like. However, my actual first impression turned out to be quite different from my expectations.
 
