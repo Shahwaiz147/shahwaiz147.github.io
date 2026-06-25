@@ -1,6 +1,13 @@
 ---
-title: "Learning Python in Programming Fundamentals"
-date: 2026-07-02
-categories: [Semester-1]
-tags: [Programming-Fundamentals, Python, Learning]
+title: Learning Python in PF
+date: 2025-10-22 10:00:00 +0500
+categories: [First Semester]
+tags: [python, programming-fundamentals, dr-bilal]
 ---
+The academic weight of the semester truly settled in when we had our first formal Programming Fundamentals (PF) lecture with Dr. Bilal Ahmad. For someone entering Computer Engineering, this was the core battleground—the subject that would determine whether I actually possessed the logical brain required to build a career in technology or if I was just romanticizing the idea of being an engineer. Dr. Bilal entered the lecture hall with a calm, no-nonsense authority that instantly silenced the room. He didn’t waste time with fluffy motivational speeches or grand promises about high-paying tech jobs; instead, he turned to the whiteboard, picked up a black marker, and wrote a single word that would dominate our minds for the next few months: Python.
+
+Learning a programming language from scratch feels remarkably like being dropped into a foreign country with nothing but a dictionary. In those first few lectures, Dr. Bilal introduced us to the absolute baselines of logic—variables, data types, and conditional structures. For the first time, I had to stop thinking like a human consumer of technology and start thinking like a highly literal, completely unforgiving machine. The transition wasn't smooth. I spent hours sitting at my wooden desk in Room 120, staring at my laptop screen, trying to figure out why an indentation error or a missing colon was causing my entire block of code to crash. Python was supposed to be the "easy" language, but to my uninitiated brain, it felt like a complex puzzle where one tiny misstep destroyed the entire structure.
+
+Despite the daily frustration of debugging, my classroom experience began to improve significantly during these sessions. Dr. Bilal had a structured, encouraging way of teaching that slowly chipped away at our collective anxiety. He would present a problem on the board, watch us struggle with it, and then guide us toward the clean, elegant solution with a patient smile. In his class, the invisible gender divide in the room started to matter less; logic didn't care whether you sat in the front row or the back row. When we were tasked with writing scripts to solve basic mathematical problems, the focus shifted from social awkwardness to absolute concentration as everyone in the room bent over their keyboards, trying to make the terminal display that glorious, successful output.
+
+By late October, the hours spent typing out code began to pay off in the form of a fragile, newfound confidence. I remember the exact evening I successfully wrote a nested loop structure that ran perfectly on the first try without throwing a single red line of errors down the terminal screen. Sitting in the quiet warmth of my desk lamp, watching the numbers arrange themselves exactly as I had intended, I felt a genuine rush of adrenaline. It was a small, isolated victory, but it was proof of growth. I hadn't mastered Object-Oriented Programming yet—Dr. Bilal made it clear that OOP was a mountain reserved for the next semester—but I had learned to speak the baseline language of the machine. The initial fear of failure was being replaced by a deep, addictive curiosity to see just how much more I could make the computer do.
