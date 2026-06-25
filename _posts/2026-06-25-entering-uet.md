@@ -3,6 +3,7 @@ title: Entering UET Lahore Faisalabad Campus
 date: 2025-09-15 09:00:00 +0500
 categories: [Hostel Life]
 tags: [uet, freshers, first-day]
+published: true
 ---
 The heavy iron gates of the UET Lahore Faisalabad Campus didn't offer a grand welcome; they felt more like the entrance to a quiet, unfamiliar world that I wasn't entirely sure I belonged in. It was September 15, 2025—a date I had anticipated for months with a mixture of intense excitement and late-night anxiety. Sitting in the back of the car with my bags packed tightly around me, my heart hammered against my ribs as the vehicle slowed down to pass through security. This was it. The culmination of entry test stress, endless merit list checking, and family congratulations had finally brought me to the actual physical reality of university life. But as the car rolled onto the campus roads, the triumphant feeling evaporated, replaced by a sudden, sinking feeling in my stomach.
 
