@@ -1,6 +1,11 @@
 ---
-title: "When Our Classes Went Online"
-date: 2026-07-15
-categories: [Semester-2]
-tags: [Online-Classes, University-Life, Learning]
+title: Online Classes During Crisis
+date: 2026-05-12 10:00:00 +0500
+categories: [Second Semester]
+tags: [online-classes, geopolitics, regional-crisis]
 ---
+By mid-May, the predictable rhythm of our academic routine was completely shattered by forces far outside the university walls. As regional geopolitical tensions escalated into active conflict during the Iran–Israel war period, the ripple effects reached deep into our quiet campus in Faisalabad. Citing security concerns and the general instability sweeping through the country, the university administration issued a sudden, late-night notification: the campus was closing its physical doors, and we were being shifted to online classes immediately. Within twenty-four hours, the bustling corridors of the academic blocks went silent, and we were confined to our computer screens, trying to maintain our engineering education from the isolation of our hostel rooms and homes.
+
+The transition to online learning brought a wave of intense anxiety. It was a chaotic contrast to the structured, face-to-face guidance we had grown used to. Trying to learn complex Database design normalization and advanced hardware concepts through a grainy Microsoft Teams stream was an absolute nightmare. Our internet connection in Ali Hall fluctuated constantly, dropping us out of critical lectures right as the professors were explaining core algorithmic structures. The familiar, comfortable co-education classroom dynamic morphed into a sterile digital layout of silent profile icons. The motivation to study began to evaporate, replaced by a heavy, distracting dread as we spent our breaks checking news feeds rather than reviewing our coding manuals.
+
+Yet, this crisis became a massive test of our batch's collective resilience. Realizing that the upcoming midterms wouldn't be delayed despite the regional disruptions, we took control of our own learning. We set up private Discord servers and WhatsApp groups, creating virtual study spaces where we could share lecture recordings, explain database schemas to each other, and debug our OOP assignments together. Sitting at my desk in Room 120, staring at my laptop screen late into the night while the world outside felt deeply unstable, I realized that being an engineer meant learning how to operate through chaos. The online classes were far from ideal, but the shared determination to keep up with our degrees bonded us together, turning a period of absolute uncertainty into a quiet showcase of student grit.
