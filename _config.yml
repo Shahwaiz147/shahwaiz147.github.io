@@ -16,7 +16,7 @@ timezone:
 
 title: "A Computer Engineering Student’s Path" # the main title
 
-tagline: "Mapping out C# classes and database schemas in the hostel." # it will display as the subtitle
+tagline: "Mapping out First and Second Semeseter and database schemas in the hostel." # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Code. Caffeine. Curiosity. Notes on the digital world.
