@@ -1,6 +1,11 @@
 ---
-title: "The Most Hectic Weeks of the Semester"
-date: 2026-07-17
-categories: [Semester-2]
-tags: [Assignments, Exams, Time-Management]
+title: Hectic Weeks of the Semester
+date: 2026-06-08 17:00:00 +0500
+categories: [Second Semester]
+tags: [pressure, deadlines, stress]
 ---
+By the first week of June, the temporary adjustments of the online phase came to an abrupt end as the university physical gates reopened, plunging us directly into the most frantic, high-pressure bottleneck of the year. Because of the disruptions caused by the fuel crisis and regional instabilities, the academic calendar had been compressed into a ruthless marathon. Every single department seemed to be competing for our remaining cognitive energy. We were hit with a relentless wave of back-to-back database project submissions, advanced object-oriented programming lab evaluations, and makeup quizzes all crammed into a single, exhausting ten-day window.
+
+The atmosphere inside the academic blocks was charged with pure adrenaline and collective panic. There was no room for procrastination; a single missed deadline could completely derail a course grade. The co-education classroom dynamic reached its most cooperative state yet, completely stripped of any lingering social barriers. During the short gaps between grueling lab sessions, guys and girls huddled together over the same desks in the library corridors, frantically debugging code, verifying digital logic circuit diagrams, and sharing missing lecture sheets. The division of labor became survival-driven—some managed database queries while others worked on finalizing hardware reports.
+
+Back in Ali Hall, Room 120 had transformed into a command center of absolute chaos. Stacks of printed lecture slides, open notebooks, and empty instant coffee sachets covered both wooden desks. My roommate and I slept in brief, alternating three-hour shifts, our laptops running hot as the ceiling fan pushed the sweltering June air around the room. The exhaustion was a physical weight, a constant ache behind the eyes, but beneath it ran a quiet, stubborn momentum. We had crawled through online disruptions, windstorms, and power outages over the last few months; there was an unspoken understanding across the entire batch that we had come too far to let the frantic pace of the final stretch break us now.
