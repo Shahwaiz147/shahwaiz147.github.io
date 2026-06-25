@@ -1,46 +1,39 @@
----
+My Computer Engineering Journey
 
-title: Blog
-icon: fas fa-folder-open
-order: 4
---------
+Welcome to my university journey. This section is organized semester by semester so that readers can easily follow my learning experience, academic growth, projects, and university life.
 
-# My Computer Engineering Journey
+📁 Semester 1
 
-This section organizes my university journey semester by semester.
+Programming Fundamentals, Python, PF Lab, Discrete Mathematics, Calculus I, Applied Physics, Applied Physics Lab, first ML project, and first semester experiences.
 
-## Semester 1
+📁 Semester 2
 
-Posts related to Programming Fundamentals, Calculus I, Applied Physics, PF Lab, Discrete Mathematics, my first ML project, and first semester experiences.
+Database Systems, OOP, DLD, Calculus II, Applied Statistics, online classes, fuel crisis, windstorms, night walks, and final examinations.
 
-## Semester 2
-
-Posts related to Database Systems, OOP, DLD, Applied Statistics, Calculus II, online classes, fuel crisis, windstorms, night walks, and final exams.
-
-## Semester 3
+📁 Semester 3
 
 Coming Soon
 
-## Semester 4
+📁 Semester 4
 
 Coming Soon
 
-## Semester 5
+📁 Semester 5
 
 Coming Soon
 
-## Semester 6
+📁 Semester 6
 
 Coming Soon
 
-## Semester 7
+📁 Semester 7
 
 Coming Soon
 
-## Semester 8
+📁 Semester 8
 
 Coming Soon
 
-## University Life
+📁 University Life
 
-Hostel life, Ali Hall, mess food, campus experiences, administration issues, friendships, and personal growth outside the classroom.
+Ali Hall, hostel experiences, mess food, campus life, friendships, challenges, personal growth, and memorable moments outside the classroom.
