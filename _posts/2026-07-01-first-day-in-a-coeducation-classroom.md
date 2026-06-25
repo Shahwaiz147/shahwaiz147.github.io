@@ -1,6 +1,13 @@
 ---
-title: "My First Day in a Co-Education Classroom"
-date: 2026-07-01
-categories: [Semester-1]
-tags: [University-Life, Classroom, First-Semester]
+title: First Day in a Co-Education Classroom
+date: 2025-10-13 08:30:00 +0500
+categories: [First Semester]
+tags: [classroom, anxiety, co-education]
 ---
+The transition from the rough-and-tumble ecosystem of Ali Hall to the academic blocks was a shift from physical discomfort to severe psychological pressure. October 13, 2025, marked the official start of lectures for the Computer Engineering batch, and with it came a reality I had been dreading in secret: stepping into a co-education classroom for the very first time in my life. Coming from an all-boys schooling background, my interactions with the opposite sex had been practically non-existent, limited to brief, polite transactions in public spaces. The thought of sitting in the same room, competing for the same grades, and working on engineering projects alongside female classmates sent a wave of absolute panic through my system as I walked down the corridor toward Class Room 4.
+
+When I pushed the door open, the room was already divided by an invisible, heavily fortified border. The girls had taken over the entire front two rows, sitting closely together and talking in hushed, confident whispers, while the guys were crammed into the back rows like refugees looking for safety. I immediately bolted toward the back, finding an empty chair in the third row, my face burning with a sudden, unprompted self-consciousness. Every movement felt exaggerated; the simple act of pulling out my notebook or adjusting my glasses felt like it was being observed and judged. The air in the room was thick with a tense, awkward energy as fifty freshers, completely unsure of how to navigate this new social dynamic, waited for the first lecturer to arrive.
+
+The initial hour was an exercise in pure social awkwardness. When the professor entered and asked us to introduce ourselves one by one, my throat went completely dry. Listening to the girls speak confidently about their backgrounds and reasons for choosing Computer Engineering made my own internal monologue sound incredibly childish. When my turn came, I stood up, cleared my throat twice, and mumbled my name and city before collapsing back into my plastic chair, convinced I had just made a fool of myself. The realization hit me hard: university wasn't just going to test my ability to solve calculus problems or write code; it was going to strip away my protective social shell and force me to grow up in an environment where I couldn't hide behind the comfort of an all-boys dynamic.
+
+By the time the afternoon rolled around and the classrooms emptied for the day, the paralyzing anxiety had settled into a manageable, dull hum. I walked back to Ali Hall with my hands shoved deep into my pockets, reflecting on the long hours of tension. The invisible wall between the rows hadn't come down, and I hadn't magically become a smooth conversationalist, but I had survived the first day without any major disasters. The co-education environment felt intimidating, a constant reminder of my own social limitations, but it was a crucial part of the adult world I had stepped into. As I sat at my desk in Room 120, staring at the fresh, unblemished pages of my university notebook, I realized that adapting to this classroom dynamic was going to be my first unspoken assignment—and I couldn't afford to fail it.
