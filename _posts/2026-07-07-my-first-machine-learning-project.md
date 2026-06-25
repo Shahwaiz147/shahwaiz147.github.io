@@ -1,4 +1,4 @@
-title: First ML Project
+title: "First ML Project"
 date: 2026-01-10 16:00:00 +0500
 categories: [First Semester]
 tags: [machine-learning, python, coding]
