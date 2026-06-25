@@ -3,6 +3,7 @@ title: First Impression of Campus
 date: 2025-09-16 12:00:00 +0500
 categories: [Hostel Life]
 tags: [campus, expectations, reality]
+published: true
 ---
 Waking up for the first time in a hostel bed is a disorienting experience. The morning sun filtered through the dusty window pane of Room 120, casting long, sharp shadows across the bare concrete floor. For a few seconds, I forgot where I was, my mind reaching for the familiar sounds of home. Instead, I was greeted by the distant clatter of aluminum plates from the mess hall and the low, collective murmur of hundreds of guys waking up to a routine they had already grown accustomed to. I sat up on the thin mattress, the metal springs creaking beneath me, and realized that my first full day at the UET Lahore Faisalabad Campus had officially begun. Today was the day I had to step outside the fragile safety of my room and actually look at the place where I would be spending the next four years of my life.
 
