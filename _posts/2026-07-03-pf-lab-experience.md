@@ -1,6 +1,13 @@
 ---
-title: "Programming Fundamentals Lab Experience"
-date: 2026-07-03
-categories: [Semester-1]
-tags: [PF-Lab, Programming, Python]
+title: PF Lab Experience
+date: 2025-11-05 14:30:00 +0500
+categories: [First Semester]
+tags: [coding, lab, python]
 ---
+If the Programming Fundamentals lectures with Dr. Bilal were where we learned the theory, the PF Lab was the actual battleground where our fragile confidence was put to the ultimate test. Every Wednesday afternoon, our batch shuffled into the grand computer lab—a long, air-conditioned room packed with rows of monitors, the hum of cooling fans, and the sharp clicking of keyboards. Unlike the lecture hall, where you could hide in the back row and nod along blindly to the board, the lab left you completely exposed. It was just you, a blank integrated development environment (IDE) screen, and a list of programming tasks that had to be completed and submitted before the timer ran out.
+
+The atmosphere inside the lab was always thick with tension. Our lab instructor would upload the day's problem set, and within minutes, the room would fill with a chaotic symphony of frantic typing and heavy sighs. In the beginning, my lab experience was a nightmare of syntax errors and logical dead ends. I remember sitting in front of my assigned monitor during the third week, staring at a problem that required us to manipulate strings using complex loops. My code kept throwing errors, and as the clock ticked down, panic settled in. The co-education environment added an extra layer of unspoken pressure; nobody wanted to be the student who had to raise their hand and admit they were completely stuck while everyone else seemed to be typing away furiously.
+
+However, the lab was also the place where the barrier between us began to dissolve. When the instructor walked away to check a submission, whispers would break out across the rows. "How did you fix the range error?" or "Are you using a while loop or a for loop?" became the common language that connected us all. We started leaning over each other’s desks, pointing out missing colons or incorrect indentations on our classmates' screens, completely forgetting our initial social awkwardness. In those three-hour sessions, the shared struggle of debugging brought the class together faster than any social event ever could.
+
+By the time November was underway, my relationship with the PF Lab had completely transformed. The initial dread turned into a strange, competitive excitement. I still got errors—plenty of them—but I no longer viewed them as proof that I didn't belong in engineering. They were just bugs waiting to be solved. When my terminal finally printed the correct output and the instructor marked my lab manual with a successful grade, the feeling of relief was unmatched. Walking out of the cool lab into the warm Faisalabad evening, I would look back at the academic block with a quiet sense of achievement. I was no longer just an anxious fresher hiding in the back row; I was actively learning how to build things with code.
