@@ -1,6 +1,13 @@
 ---
-title: "Rainy Days and Unexpected Hostel Challenges"
-date: 2026-06-29
-categories: [University-Life]
-tags: [Rain, Hostel-Life, Challenges]
+title: Rainy Days in the Hostel
+date: 2025-10-02 11:00:00 +0500
+categories: [Hostel Life]
+tags: [rain, room-issues, rt-management]
 ---
+If the dry September heat was an external trial, the first heavy downpour of October turned our survival struggle inward, exposing the physical structural decay of Ali Hall. It started in the early hours of October 2—a sudden, violent thunderstorm that rolled across the Faisalabad plains, shattering the heavy silence of the campus with loud cracks of thunder. I woke up at 3:00 AM to the rhythmic, metallic slapping of my window frame against the brick wall as the wind howled through the courtyard. But it wasn't the sound that pulled me completely out of sleep; it was a cold, persistent dripping sound coming from the corner of Room 120, followed by the unmistakable smell of wet concrete and old plaster.
+
+Switching on my phone's flashlight, my heart sank. The old building’s roof was failing. A steady stream of muddy rainwater was seeping through a long, jagged crack in the ceiling, splashing directly onto the corner of my wooden study desk and creeping perilously close to my stack of programming textbooks. My roommate and I scrambled out of bed in the dark, throwing ourselves into a frantic midnight salvage operation. We dragged the heavy wooden desks toward the center of the room, threw plastic bags over our laptops, and placed a plastic bucket under the main leak. The rhythmic plop-plop-plop of water hitting the plastic base became our new soundtrack, a frustrating reminder that our sanctuary was completely vulnerable to the elements.
+
+The morning brought no relief. The corridor outside Room 120 had transformed into a shallow canal of muddy water as rain swept in through the glassless windows of the stairwell. Students were walking around in plastic slippers, their trousers rolled up to their shins, carrying buckets of water out of their rooms. When a group of us marched down to the resident tutor's (RT) office to report the extensive leaks and demand repairs, we were met with the sluggish, bureaucratic indifference that defines hostel management. The RT, sitting comfortably under a functioning fan, slowly noted our room numbers down in a worn ledger, giving us a vague, rehearsed promise that the maintenance staff would look into it "after the rainy season passed." There was no urgency, no immediate assistance, just a slow shrug of the shoulders that told us we were entirely on our own.
+
+Returning to our damp room, smelling of mold and wet bricks, a heavy cloud of frustration settled over me. It felt unfair that while we were paying fees to an engineering university, we were forced to sleep in rooms that couldn't keep out a basic rainstorm. I sat on my bed, watching the bucket slowly fill with murky water, feeling a deep wave of homesickness and anger. But as the afternoon wore on and the rain settled into a steady drizzle, the mood in the hostel shifted from anger to a bizarre form of student comedy. Guys began playing music out of their windows, someone set up a makeshift tea station in the corridor using an old electric kettle, and we spent the evening sharing stories of how each room had managed to defend its territory against the water. The rainy day didn't fix our broken ceiling, but it proved to me that while the administration was slow to care, the community we were building in the trenches of Ali Hall was fast to adapt.
