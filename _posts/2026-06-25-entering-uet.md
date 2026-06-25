@@ -5,7 +5,7 @@ categories: [University-Life]
 tags: [UET, First-Day, University]
 ---
 
-Entering UET Lahore Faisalabad Campus
+**Entering UET Lahore Faisalabad Campus**
 
 On 15 September 2025, I entered UET Lahore Faisalabad Campus and started a new chapter of my life. After spending years in school and college, university felt like a completely different world. I had heard many stories about university life from seniors, relatives, and friends, but standing at the campus entrance for the first time was a different experience altogether. There was excitement about beginning my journey as a Computer Engineering student, but there was also uncertainty about what the coming years would bring.
 
