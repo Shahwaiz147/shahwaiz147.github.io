@@ -3,6 +3,7 @@ title: Rainy Days in the Hostel
 date: 2025-10-02 11:00:00 +0500
 categories: [Hostel Life]
 tags: [rain, room-issues, rt-management]
+published: true
 ---
 If the dry September heat was an external trial, the first heavy downpour of October turned our survival struggle inward, exposing the physical structural decay of Ali Hall. It started in the early hours of October 2—a sudden, violent thunderstorm that rolled across the Faisalabad plains, shattering the heavy silence of the campus with loud cracks of thunder. I woke up at 3:00 AM to the rhythmic, metallic slapping of my window frame against the brick wall as the wind howled through the courtyard. But it wasn't the sound that pulled me completely out of sleep; it was a cold, persistent dripping sound coming from the corner of Room 120, followed by the unmistakable smell of wet concrete and old plaster.
 
