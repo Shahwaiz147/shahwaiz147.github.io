@@ -1,6 +1,13 @@
 ---
-title: "Looking Back at My First Semester"
-date: 2026-07-08
-categories: [Semester-1]
-tags: [Reflection, First-Semester, Learning]
+title: Looking Back at First Semester
+date: 2026-02-15 21:00:00 +0500
+categories: [First Semester]
+tags: [growth, exams, wrap-up]
 ---
+February 15, 2025, brought a quiet, profound stillness to the campus as the final exam season finally drew to a close. Sitting on the concrete edge of the hostel courtyard on my last evening before the semester break, watching the pale winter sunset melt behind the red-brick academic blocks, I felt a deep, overwhelming sense of relief. My first semester at UET Lahore Faisalabad Campus was officially in the books. Looking down at my worn, ink-stained notebooks, it felt almost impossible to believe that the calm, collected student sitting here was the exact same terrified kid who had passed through the campus security gates five months earlier.
+
+The journey had been a grueling trial of personal adaptation. I looked back at my early hostel entries—the bitter complaints about the cold communal bathrooms, the total dread of the low-quality mess food, and the sheer panic of walking into a co-education classroom for the first time. Those challenges hadn't magically disappeared; the mess food was still a daily exercise in culinary endurance, and the old roof of Room 120 still carried its permanent rain stains. But somewhere along the line, my tolerance had changed. The environment hadn't become softer; I had simply become far more resilient. The daily friction of hostel life had stripped away my dependencies and forced me to stand firmly on my own two feet.
+
+Academically, the growth was even more stark. I had entered the university unsure if I even had the capacity to think like an engineer. Now, my mind was wired with the logical frameworks of Discrete Mathematics, the analytical tools of Calculus, and the practical coding patterns of Python. Dr. Bilal’s programming classes and our final machine learning project had completely transformed my relationship with technology. I no longer looked at a computer as a consumer; I looked at it as a creator who understood the raw hardware and code structures running underneath. The anxiety that had paralyzed my initial mornings had been systematically replaced by a quiet, steady confidence in my own ability to learn and adapt.
+
+As I locked the door to Room 120 and carried my bags down the echoing staircase of Ali Hall to catch the bus home for the holidays, I felt a strange flash of affection for this rugged, isolated campus. It hadn't given me a comfortable, cinematic freshman year, but it had given me exactly what I needed: a tough, unpolished testing ground where I could discover my own strength. I was leaving the first semester with a heavier backpack, a tired mind, and a heart that was completely steady. The foundation had been poured, the first major battle had been won, and I knew I was finally ready to face whatever chaos the second semester had waiting for me.
