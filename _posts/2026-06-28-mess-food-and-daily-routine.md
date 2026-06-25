@@ -3,6 +3,7 @@ title: Mess Food and Daily Routine
 date: 2025-09-20 14:00:00 +0500
 categories: [Hostel Life]
 tags: [mess-food, daily-grind, survival]
+published: true
 ---
 By the end of my first week in Ali Hall, the romanticized illusions of university independence had completely dissolved, replaced by the rigid, unyielding gears of the hostel daily routine. The defining anchor of this routine—and arguably the ultimate test of physical endurance for any hostelite—was the mess food. Every morning began with the harsh clanging of giant aluminum ladles against metal cooking pots, a sound that resonated through the corridors like a wake-up siren. Dinner was no different; at exactly 7:30 PM, a long, weary line of hungry students wrapped around the dark corridor leading to the basement dining hall, all of us carrying plastic tokens we had purchased earlier in the day, waiting to see what the kitchen staff had engineered for our survival.
 
