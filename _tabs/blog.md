@@ -1,3 +1,8 @@
+---
+title: Blog
+icon: fas fa-folder-open
+order: 4
+---
 My Computer Engineering Journey
 
 Welcome to my university journey. This section is organized semester by semester so that readers can easily follow my learning experience, academic growth, projects, and university life.
