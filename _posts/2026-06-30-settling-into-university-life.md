@@ -3,6 +3,7 @@ title: Settling into University Life
 date: 2025-10-10 20:00:00 +0500
 categories: [Hostel Life]
 tags: [adaptation, peace, student-life]
+published: true
 ---
 By the second week of October, almost a month after I first passed through the front gates of UET Lahore Faisalabad Campus, something subtle but profound shifted within me. The sharp edges of the initial culture shock had begun to wear down, smoothed away by the daily friction of repetition. The barren walkways no longer felt eerie; they just felt like space I had to cross to get to my lectures. The old, stained bricks of Ali Hall stopped looking like a monument to poor maintenance and began to feel like a familiar fortress. Without realizing it, I had stopped comparing my current reality to the glossy university fantasies I had carried in my head all summer. I had finally stopped visiting; I was officially living here.
 
