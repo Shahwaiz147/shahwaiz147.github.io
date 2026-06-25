@@ -1,6 +1,11 @@
 ---
-title: "Fuel Crisis, Windstorms and Night Walks"
-date: 2026-07-16
-categories: [Semester-2]
-tags: [Campus-Life, Student-Life, Memories]
+title: Fuel Crisis, Windstorms and Night Walks
+date: 2026-05-25 23:30:00 +0500
+categories: [Second Semester]
+tags: [hostel-life, weather, mental-health]
 ---
+The final weeks of May brought a perfect storm of environmental and systemic challenges that pushed our mental endurance to its absolute limit. The ongoing regional instability triggered a severe domestic fuel crisis, which quickly led to massive, unannounced electricity load-shedding across the Faisalabad region. To make matters worse, the intense summer heat broke in the most violent way possible—a series of massive, blinding windstorms that swept through the barren campus layout, rattling our windows and cutting off power lines. For days at a time, Ali Hall was left completely dark and suffocatingly hot, rendering our laptop batteries dead and making any attempts at structured studying inside Room 120 practically impossible.
+
+The physical discomfort was deeply exhausting, but the mental strain was even worse. The general chaos of our academic routine, combined with the pressure of looming final evaluations and the lack of basic utilities, left the entire hostel batch feeling deeply frustrated and overwhelmed. It was during these dark, powerless nights that we found our only escape: long, aimless night walks around the dark perimeter of the campus roads. Once the dust from the windstorms settled into the cool night air, groups of us would step out of our suffocating rooms, our phone flashlights cutting through the thick darkness as we walked past the quiet, monolithic red-brick academic blocks.
+
+Those night walks became our informal group therapy sessions. Away from the glare of our code editors and the constant pressure of assignments, we dropped our academic guards completely. We walked under the stars, talking quietly about our homesickness, our shared fears of failing the semester, and the sheer absurdity of trying to master Digital Logic Design while sitting in a dark, sweltering hostel room. The wind would occasionally rustle through the sparse trees, carrying away our collective complaints. These midnight walks didn't bring the electricity back, nor did they slow down the frantic pace of the term, but they reminded us that we weren't struggling in isolation. In the middle of a systemic crisis and seasonal fury, the simple act of walking side-by-side through the dark gave us the exact mental reset we needed to wake up the next morning and keep fighting.
