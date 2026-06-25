@@ -1,60 +1,18 @@
 ---
-title: "Entering UET Lahore Faisalabad Campus"
-date: 2025-09-15 00:00:00 +0500
-categories: [University Life, Hostel]
-tags: [arrival, uet, faisalabad, ali-hall, hostel]
-author: <your_username>
-description: "The day I left home and arrived at UET Lahore Faisalabad Campus for the first time."
+title: Entering UET Lahore Faisalabad Campus
+date: 2025-09-15 09:00:00 +0500
+categories: [Hostel Life]
+tags: [uet, freshers, first-day]
 ---
+The heavy iron gates of the UET Lahore Faisalabad Campus didn't offer a grand welcome; they felt more like the entrance to a quiet, unfamiliar world that I wasn't entirely sure I belonged in. It was September 15, 2025—a date I had anticipated for months with a mixture of intense excitement and late-night anxiety. Sitting in the back of the car with my bags packed tightly around me, my heart hammered against my ribs as the vehicle slowed down to pass through security. This was it. The culmination of entry test stress, endless merit list checking, and family congratulations had finally brought me to the actual physical reality of university life. But as the car rolled onto the campus roads, the triumphant feeling evaporated, replaced by a sudden, sinking feeling in my stomach.
 
-The day before I left for university, I could not sleep.
+Everything looked quiet. Too quiet. I had spent the last few weeks looking at glossy prospectus photos and browsing general university vlogs that depicted bustling campuses overflowing with student energy, modern glass buildings, and vibrant social spaces. What sat before me was starkly different. The Faisalabad campus felt vast but strangely barren, its red-brick structures standing isolated against a landscape that seemed far removed from the city's pulse. There were no crowds of seniors welcoming the freshers, no colorful banners stretching across the walkways, and no immediate sense of academic prestige. Instead, a heavy silence hung over the grounds, broken only by the dry wind rustling through scattered trees. It felt less like a launchpad for my dream career in Computer Engineering and more like a secluded outpost.
 
-I kept staring at the ceiling of my room — the same room I had slept in my whole life, the same ceiling I had looked at during exam nights, during summer afternoons, during the long idle months after FSc when I was waiting for the merit list. That ceiling knew everything about me. And the next morning, I was leaving it behind.
+The drive toward Ali Hall, the hostel assigned to me, only deepened the growing knot of apprehension. As we left the main academic blocks behind, the roads became less maintained, and the scenery shifted toward a raw, utilitarian atmosphere. When the car finally pulled up outside Ali Hall, my expectations took another sharp hit. The building was old. Its brickwork bore the stains of many past monsoons, and the architecture belonged to an era that prioritized basic shelter over modern comfort. Standing on the cracked pavement with my suitcases resting on the dusty ground, I watched my parents look around with quiet concern, though they tried their best to mask it with encouraging smiles.
 
-My bags were packed. Clothes, books, a few things from home that I thought would make a hostel room feel less empty. My mother had packed some food too — the kind of food you do not ask for but your mother puts in anyway, because she knows you will miss it by the second day. She was quieter than usual that morning. My father was the one doing all the talking, giving last-minute advice, reminding me of things I already knew. I think it was easier for him to keep talking than to stand in the silence of what was actually happening.
+Stepping inside the main lobby of the hostel felt like walking into a time capsule of student struggle. The air was thick with the scent of old concrete, dampness, and the lingering aroma of low-effort cooking from some distant corner. The walls were lined with notice boards holding faded, curling papers, and a lone ceiling fan buzzed aggressively overhead, doing little to cool the oppressive September heat. The administrative process at the warden’s desk was slow and transactional; there was no grand orientation or comforting reassurance, just a tired official cross-checking my admission documents against a ledger before handing over a heavy, slightly rusted key.
 
-I was going to university.
+Carrying my luggage up the concrete stairwells toward Room 120 felt like a physical and emotional climb. Every step echoed against the bare walls. I passed open doors revealing glimpse of other students’ lives—stacked plastic chairs, mismatched mattresses, and laundry hanging from makeshift lines. This wasn't the polished, independent lifestyle I had romanticized in my head. This was survival mode. When I finally reached Room 120 and turned the key in the lock, the door creaked open to reveal a small, Spartan space with two metal beds, two basic wooden desks, and a window looking out over a dusty courtyard. The walls needed a fresh coat of paint, and a layer of fine dust covered every surface.
 
-Not just any university — UET Lahore Faisalabad Campus. I had worked toward this for two years of FSc. I had pushed through the entry test, refreshed the merit list a hundred times, and the day the final list came out and my name was on it, I remember just sitting there, not knowing whether to feel happy or terrified. It turned out the answer was both.
-
----
-
-The journey from my city to Faisalabad was a few hours. My father came with me, which I was glad about, though I would not have admitted it at the time. We sat mostly in silence, watching the landscape shift — the familiar streets giving way to highways, then to a city I had only passed through a couple of times before. Faisalabad is large and loud in a way that is different from smaller cities. The roads are wide and busy. The traffic does not slow down for anything. Everything moves at a pace that feels slightly too fast.
-
-When we finally arrived at the campus, I did not know what I expected. Maybe I had built up some image in my head — the kind of campus you see in pictures online, with clean brick buildings and green lawns and students walking around looking like they belong somewhere. What I saw was different.
-
-The campus is not new. The buildings are functional rather than beautiful. The lawns exist, but they are patchy. The paths between buildings are dusty in places, concrete in others. It was a quiet Sunday afternoon when we arrived, so most of the campus was empty, and that emptiness made everything feel a little more raw. There were a few other students arriving with their families too, dragging bags and looking around with the same slightly uncertain expression I probably had.
-
-I noticed everything. The gates, the security check, the signs pointing to different departments and hostels. I noticed that the campus felt much smaller in some ways than I had imagined, and larger in others. I noticed that it did not look anything like the version of university I had carried in my head for two years.
-
-I did not say any of this out loud. I just kept walking.
-
----
-
-Ali Hall was the hostel I had been assigned to. We found it after a short walk through the campus — a building that had clearly been standing for a long time. The paint on the outer walls was older and sun-faded. The main entrance had a kind of worn, institutional feeling to it, the way old government buildings do, not uncomfortable exactly, but not warm either.
-
-We went to the administration and got my room assigned. Room 120. I did not know yet what that room would mean to me over the coming months — the sleepless nights, the ceiling I would study in the dark, the sounds of the hostel at 2 AM. In that moment it was just a number on a piece of paper.
-
-My father helped me carry my things up and we opened the room. It was small. A bed, a desk, a cupboard, walls painted a pale green that had faded unevenly over the years. There was a window, which I was glad about. The room was not dirty, but it had the feeling of many people having lived in it before me, each one leaving without leaving a trace. It was a completely blank space.
-
-My father looked around the room for a moment, then looked at me. He said something practical — something about the lock on the door, or where to keep my valuables. Then he helped me make the bed with the sheets I had brought. We did not talk much. There was not a lot to say that had not already been said.
-
-When it was time for him to leave, he did not make it dramatic. A handshake, a few words. He told me to call. He walked out, and I listened to his footsteps going down the corridor.
-
-And then I was alone in Room 120 for the first time.
-
----
-
-I sat on the edge of the bed for a while and did not do anything in particular. Outside the window, the campus was quiet. Somewhere down the hallway I could hear other students talking, the sound of a door opening and closing, someone dragging something across the floor. The sounds of other people beginning the same thing I was beginning.
-
-It was not the arrival I had imagined. There was no feeling of triumph, no sudden sense of beginning. It was quieter and stranger than that. Just a room. Just the afternoon light coming through a window. Just me, sitting there, trying to understand what had actually happened.
-
-I had arrived. I was at university. This was the thing I had worked for.
-
-It did not feel the way I thought it would. But I also did not know yet what it was actually going to become. I could not have known, sitting there on that first afternoon, what the next two years would hold — the exams, the friendships, the nights that went too late, the subjects that broke my confidence and the ones that rebuilt it, the small ordinary moments that would somehow end up mattering the most.
-
-I just sat there, in a room that was not yet mine, in a city that was not yet familiar, at the start of something I did not yet understand.
-
-That is how it begins.
----
+As my parents helped me wipe down the desk and unpack my clothes into the metal locker, the reality of my new existence truly set in. I was no longer a protected school kid returning to a comfortable home every afternoon. I was a hostelite at UET, miles away from everything familiar, left to navigate a rugged, unpolished environment where comfort was a luxury and self-reliance was the baseline. When the time came for my parents to leave, the goodbye was brief but heavy. Watching their car drive back toward the main gates left me standing alone in the middle of Room 120, staring at my neatly made bed, listening to the unfamiliar hum of the hostel. The journey had officially begun, not with a burst of glory, but with a quiet, grounding realization that the next few years were going to test every bit of resilience I had.
 
