@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Blog
+layout: categories
 icon: fas fa-folder-open
+title: Blog
 order: 4
 ---
