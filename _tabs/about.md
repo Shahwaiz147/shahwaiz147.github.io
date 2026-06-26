@@ -1,4 +1,4 @@
-```markdown
+
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
@@ -42,4 +42,4 @@ This portfolio contains:
 I hope this blog inspires other students who are beginning their own Computer Engineering journey.
 
 Thank you for visiting my portfolio!
-```
+
