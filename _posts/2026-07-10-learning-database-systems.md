@@ -14,3 +14,7 @@ Despite the analytical strain, learning under Dr. Bilal remained an incredibly r
 Dr. Bilal Ahmad's guidance helped me understand programming concepts more clearly. You can view his LinkedIn profile here:
 
 [Dr. Bilal Ahmad on LinkedIn](https://www.linkedin.com/in/drbilalphd/)
+#MLwithDrBilalAhmad 
+#DrBilalAhmad
+#MLProject
+
